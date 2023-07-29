@@ -1,0 +1,23 @@
+.footer{
+    padding: 80px 0 100px;
+    background-color: #245852;
+    /* background-color: #01996D; */
+    color: #fff;
+
+}
+
+.exercise{
+    font-size: 30px;
+    font-weight: 800;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 50px;
+}
+
+.home-work{
+    font-weight: 200;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+
